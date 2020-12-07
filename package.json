@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelKohler/AdventOfCode-2020.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/MichaelKohler/AdventOfCode-2020/issues"
+  },
+  "homepage": "https://github.com/MichaelKohler/AdventOfCode-2020#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
